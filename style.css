@@ -7,6 +7,11 @@
 	background-color:white;
 	width: 970px;
 }
+
+#wrapper3{
+	background-color:white;
+	width: 970px;
+}
 #header{
     color:#4A4A4A;
 	background:white;
@@ -37,8 +42,6 @@ h4{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: lighter;
 }
-
-
 
 #left_nav{
     color:black;
@@ -104,6 +107,7 @@ h4{
     font-family: Arial, Helvetica, sans-serif;
     font-weight:light;
 }
+
 #adspace{
     width: 200px;
     height: 300px;
@@ -154,7 +158,6 @@ h4{
        
 }
 
-
 #mainimg{
     width: 740px; 
     height: 100px;  
@@ -169,9 +172,8 @@ h4{
 }
 
 #bottomAd{
-    display:inline-block;
     width: 130px; 
-    height: 121px;
+    height: 130px;
     border-style: solid;
     border-color:#4685A9;
     border-width: 4px 0px 4px 4px;
@@ -182,13 +184,12 @@ h4{
     background:white;
     box-shadow: 3px 3px 5px grey;
     display:inline-block;
-    margin: 7px 0px 0px 0px;
+    margin: 15px 0px 0px 250px;
     vertical-align: top;
     padding: 10px 0px 0px 10px;
 }
 
 #bottomAdText{
-    display:inline-block;
     width: 550px; 
     border-style: solid;
     border-color:#4685A9;
@@ -200,7 +201,7 @@ h4{
     background:white;
     box-shadow: 3px 3px 5px grey;
     display:inline-block;
-    margin: 7px 0px 0px -10px;
+    margin: -148px 0px 0px 390px;
     vertical-align: top;
-    padding: 0px 0px 0px 30px;
+    padding: 0px 0px 41px 50px;
 }
