@@ -45,7 +45,7 @@ h4{
 
 #left_nav{
     color:black;
-    background:linear-gradient(45deg,#E5E5E5, white, white);
+    background:white;
     display:inline-block;
     margin: 0px 2px 2px 2px;
     vertical-align: top;
@@ -190,7 +190,7 @@ h4{
 }
 
 #bottomAdText{
-    width: 550px; 
+    width: 530px; 
     border-style: solid;
     border-color:#4685A9;
     border-width: 4px 4px 4px 0px;
@@ -203,5 +203,5 @@ h4{
     display:inline-block;
     margin: -148px 0px 0px 390px;
     vertical-align: top;
-    padding: 0px 0px 41px 50px;
+    padding: 0px 0px 9px 50px;
 }
