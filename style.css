@@ -12,6 +12,27 @@
 	background-color:white;
 	width: 970px;
 }
+
+#globe{
+    width: 100px;
+    height: 100px;
+}
+
+#ninja{
+    width: 90px;
+    height: 120px;
+}
+
+#home{
+    width: 30px;
+    height: 30px;
+}
+
+#html{
+    width: 120px;
+    height: 100px;
+}
+
 #header{
     color:#4A4A4A;
 	background:white;
